@@ -1,3 +1,3 @@
 # devopes
 lab8
-hi
+hi this is the devopes project
